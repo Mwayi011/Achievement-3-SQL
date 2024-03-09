@@ -1,6 +1,9 @@
 # Achievement-3-SQL
 **Rockbuster Stealth Presentation**
 
+![image](https://github.com/Mwayi011/Achievement-3-SQL/assets/162637586/5301e6df-1200-4ef3-8741-6440b2b87519)
+
+
 I created a presentation for the business managers of Rockbuster Stealth, an Excel file for my technical colleagues containing my SQL queries that I wrote and the data outputs, and prepared a data dictionary.
 
 **Objective**
